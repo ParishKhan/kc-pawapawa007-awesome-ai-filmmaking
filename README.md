@@ -33,22 +33,23 @@
 
 ## Video Generation
 
-> AI tools that generate or manipulate video content
+> AI tools that generate or manipulate video content — updated August 2026
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
-| Runway Gen-3 | Text-to-video and image-to-video generation | Freemium | [Site](https://runwayml.com/) |
-| Sora (OpenAI) | High quality text-to-video generation | Paid | [Site](https://openai.com/sora) |
-| Kling AI | Realistic video generation by Kuaishou | Freemium | [Site](https://klingai.com/) |
-| Pika Labs | Text and image to video tool | Freemium | [Site](https://pika.art/) |
-| Luma Dream Machine | Fast text-to-video generation | Freemium | [Site](https://lumalabs.ai/dream-machine) |
-| Hailuo AI (MiniMax) | High quality video generation | Freemium | [Site](https://hailuoai.video/) |
-| Veo 2 (Google) | Google's advanced video generation model | Limited Access | [Site](https://deepmind.google/technologies/veo/) |
-| Stable Video Diffusion | Open source video generation | Free | [Site](https://stability.ai/stable-video) |
-| CogVideoX | Open source text-to-video model | Free | [GitHub](https://github.com/THUDM/CogVideo) |
-| Wan 2.1 | Open source video generation model | Free | [GitHub](https://github.com/Wan-Video/Wan2.1) |
-| Mochi 1 | Open source video generation by Genmo | Free | [GitHub](https://github.com/genmoai/mochi) |
+| Runway Gen-4.5 | Latest Runway model — best creative control | Freemium | [Site](https://runwayml.com/) |
+| Sora 2 (OpenAI) | Physics-realistic video generation | Paid | [Site](https://openai.com/sora) |
+| Veo 3.1 (Google) | Cinematic quality with native audio generation | Freemium | [Site](https://deepmind.google/technologies/veo/) |
+| Kling AI 3.0 | Best value — photorealistic humans in 4K | Freemium | [Site](https://klingai.com/) |
+| Higgsfield AI | Full creative suite — generation to finished asset | Freemium | [Site](https://higgsfield.ai/) |
+| Seedance 2.0 | Multi-shot films and ads, up to 9 reference inputs | Freemium | [Site](https://seedance.ai/) |
+| Luma Ray 3 | Fast and high quality text-to-video | Freemium | [Site](https://lumalabs.ai/dream-machine) |
+| Pika Labs | Text and image to video with style control | Freemium | [Site](https://pika.art/) |
+| Hailuo AI (MiniMax) | Fast short-form video generation | Freemium | [Site](https://hailuoai.video/) |
 | Pixverse | AI video generation and editing | Freemium | [Site](https://pixverse.ai/) |
+| Wan 2.6 | Open source — best for restyling existing footage | Free | [GitHub](https://github.com/Wan-Video/Wan2.1) |
+| CogVideoX | Open source text-to-video model | Free | [GitHub](https://github.com/THUDM/CogVideo) |
+| Mochi 1 | Open source video generation by Genmo | Free | [GitHub](https://github.com/genmoai/mochi) |
 
 ---
 
